@@ -25,7 +25,7 @@ export default function PromiseToast() {
         }}
       >
         Submit
-        <Toaster position='bottom-center' expand={true} richColors />
+        <Toaster position='bottom-right' expand={true} richColors />
       </button>
     </div>
 
